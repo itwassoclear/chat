@@ -1,6 +1,7 @@
 {
   "name": "chat",
   "version": "1.0.0",
+  "source": "src/index.js",
   "description": "",
   "scripts": {
     "dev": "parcel index.hbs",
